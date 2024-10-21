@@ -1,5 +1,8 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=49F7B6&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=Luz+:p;work+in+progress;idk;holi;prob+at+a+sidequest+rn)](https://git.io/typing-svg)
 
+🕯️**About me**: Software Engineering student, currently want to do _everything_ (wym i cant't? :c) 
+
+🤓**Currently**: Enrolled in `Web Full Stack Junior Bootcamp` @Kodigo
 <!--
 **luzdl/luzdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
