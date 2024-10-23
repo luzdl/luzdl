@@ -10,9 +10,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `pentesting`, `malware analysis`
 
 - `🤖` **`Data analisys`**<br>
-\\___[ Attending AI & ML conferences and practicing data analisys algorithms<br>
+\\___[ Attending AI & ML conferences and practicing data analysis algorithms<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `AI`, `big data`, `data science`
 
 - `🧑‍💻` **`web development`**<br>
 \\___[ My current goal is to build my personal website, UI/UX enthusiast and enabler<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `HTML`, `CSS`,`JavaScript`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `HTML`, `CSS`,`JavaScript` 
